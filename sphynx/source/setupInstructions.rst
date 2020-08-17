@@ -8,11 +8,11 @@ The following videos demonstrate these installation instructions on brand new Wi
 
 .. raw:: html
 
-   <iframe width="560" height="315" src="https://www.youtube.com/embed/ywUDEEra0ns" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+   <p><iframe width="560" height="315" src="https://www.youtube.com/embed/ywUDEEra0ns" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
 
 .. raw:: html
 
-   <iframe width="560" height="315" src="https://www.youtube.com/embed/XzGqKSwnCTA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+   <p><iframe width="560" height="315" src="https://www.youtube.com/embed/XzGqKSwnCTA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
 
 
 Windows Computer
@@ -197,3 +197,8 @@ This should open the browser running jupyter-notebook. Select any of the .ipynb 
 .. note::
    
    If it cannot find the jupyter-notebook application, you will need to edit your env PATH variable. This is done by editing the .bashrc or .zprofile file mentioned above. See the video for a demonstartion.
+
+
+.. include:: install_issues.rst
+
+
